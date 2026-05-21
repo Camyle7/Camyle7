@@ -27,8 +27,7 @@ Olá, me chamo Camyle Gonçalves, tenho 20 anos de idade, natural de Brasília-D
     title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />   
-    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 <img 
     align="left" 
@@ -36,8 +35,7 @@ Olá, me chamo Camyle Gonçalves, tenho 20 anos de idade, natural de Brasília-D
     title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"      
 />
 
 <img 
@@ -46,8 +44,7 @@ Olá, me chamo Camyle Gonçalves, tenho 20 anos de idade, natural de Brasília-D
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-   
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
 
 <img 
@@ -56,6 +53,5 @@ Olá, me chamo Camyle Gonçalves, tenho 20 anos de idade, natural de Brasília-D
     title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-          
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
